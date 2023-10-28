@@ -1,0 +1,14 @@
+C:\Users\Stan11s\Desktop\EGC\LAB3_Gratii_Stanislav\LAB3_Gratii_Stanislav\bin\Debug\LAB3_Gratii_Stanislav.exe.config
+C:\Users\Stan11s\Desktop\EGC\LAB3_Gratii_Stanislav\LAB3_Gratii_Stanislav\bin\Debug\LAB3_Gratii_Stanislav.exe
+C:\Users\Stan11s\Desktop\EGC\LAB3_Gratii_Stanislav\LAB3_Gratii_Stanislav\bin\Debug\LAB3_Gratii_Stanislav.pdb
+C:\Users\Stan11s\Desktop\EGC\LAB3_Gratii_Stanislav\LAB3_Gratii_Stanislav\bin\Debug\OpenTK.dll
+C:\Users\Stan11s\Desktop\EGC\LAB3_Gratii_Stanislav\LAB3_Gratii_Stanislav\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Stan11s\Desktop\EGC\LAB3_Gratii_Stanislav\LAB3_Gratii_Stanislav\bin\Debug\OpenTK.pdb
+C:\Users\Stan11s\Desktop\EGC\LAB3_Gratii_Stanislav\LAB3_Gratii_Stanislav\bin\Debug\OpenTK.xml
+C:\Users\Stan11s\Desktop\EGC\LAB3_Gratii_Stanislav\LAB3_Gratii_Stanislav\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Stan11s\Desktop\EGC\LAB3_Gratii_Stanislav\LAB3_Gratii_Stanislav\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Stan11s\Desktop\EGC\LAB3_Gratii_Stanislav\LAB3_Gratii_Stanislav\obj\Debug\LAB3_Gratii_Stanislav.csproj.AssemblyReference.cache
+C:\Users\Stan11s\Desktop\EGC\LAB3_Gratii_Stanislav\LAB3_Gratii_Stanislav\obj\Debug\LAB3_Gratii_Stanislav.csproj.CoreCompileInputs.cache
+C:\Users\Stan11s\Desktop\EGC\LAB3_Gratii_Stanislav\LAB3_Gratii_Stanislav\obj\Debug\LAB3_Gratii_Stanislav.csproj.CopyComplete
+C:\Users\Stan11s\Desktop\EGC\LAB3_Gratii_Stanislav\LAB3_Gratii_Stanislav\obj\Debug\LAB3_Gratii_Stanislav.exe
+C:\Users\Stan11s\Desktop\EGC\LAB3_Gratii_Stanislav\LAB3_Gratii_Stanislav\obj\Debug\LAB3_Gratii_Stanislav.pdb
